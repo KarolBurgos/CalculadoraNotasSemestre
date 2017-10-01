@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">University Notes</string>
+    <string name="acercade1">About</string>
+    <string name="calcular">Calculation of notes</string>
+    <string name="clasicacion">mobile development</string>
+    <string name="estatura">Systems Architecture</string>
+    <string name="idmasa">research work</string>
+    <string name="peso">Peso (Kg)</string>
+    <string name="resultado">Resultado</string>
+    <string name="titulo">Titulo</string>
+    <string name="salir">Salir</string>
+    <string name="numer">Notes</string>
+    <string name="ind">Calculate total Notes</string>
+    <string name="delsevera">Informatic security</string>
+    <string name="delmodera">Projects TI</string>
+    <string name="delleve">Distributed systems</string>
+    <string name="sopre">Sobrepeso</string>
+    <string name="obe">empty fields</string>
+    <string name="obemor">Final Note</string>
+    <string name="omedia">Accept</string>
+    <string name="nocampo">Note 3:</string>
+    <string name="atras">previous</string>
+    <string name="navigation_drawer_close">Note 1:</string>
+    <string name="navigation_drawer_open">Note 2:</string>
+    <string name="oleve">The final grade of the semester is:</string>
+
+</resources>

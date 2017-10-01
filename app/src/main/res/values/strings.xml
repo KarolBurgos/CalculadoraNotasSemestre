@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notas Universitarias</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="navigation_drawer_open">Nota 2:</string>
+    <string name="navigation_drawer_close">Nota 1:</string>
+
+    <string name="acercade1">Acerca de</string>
+    <string name="calcular">Calculo de notas</string>
+    <string name="atras">atras</string>
+    <string name="clasicacion">Desarrollo Movil</string>
+    <string name="delleve">Sistemas Distribuidos</string>
+    <string name="delmodera">Proyectos TI</string>
+    <string name="delsevera">Seguridad Informatica</string>
+    <string name="estatura">Arquitectura De Sistemas</string>
+    <string name="idmasa">Trabajo de Investigación</string>
+    <string name="ind">Calcular Nota total del semestre</string>
+    <string name="nocampo">Nota 3:</string>
+    <string name="numer">Notas</string>
+    <string name="obe">Campo Vacio</string>
+    <string name="obemor">Nota Definitiva</string>
+    <string name="oleve">"La Nota definitiva del semestre es:   "</string>
+    <string name="omedia">Aceptar</string>
+</resources>
